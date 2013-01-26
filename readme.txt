@@ -1,6 +1,6 @@
 === Jetpack shortlinks for sharing buttons ===
 Contributors: jeherve
-Tags: WordPress.com, Jetpack, shortlinks, sharedaddy, bitly
+Tags: WordPress.com, Jetpack, shortlinks, sharedaddy, sharing, bitly
 Requires at least: 3.2
 Tested up to: 3.5
 Stable tag: 1.0
