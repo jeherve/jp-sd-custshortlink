@@ -5,15 +5,15 @@ Requires at least: 3.2
 Tested up to: 3.5
 Stable tag: 1.0
 
-Uses shortlinks instead of the permalink in sharing buttons
+Use shortlinks instead of permalinks in Jetpack sharing buttons
 
 == Description ==
 
-Uses shortlinks instead of the permalink in sharing buttons
+Use shortlinks instead of permalinks in Jetpack sharing buttons
 
 * If you haven't set up any shortlink plugin on your site, the sharing buttons will use the default numerical permalinks
 * If you have enabled WP.me Shortlinks in Jetpack, the sharing buttons will use them
-* If you've installed another plugin to use custom shortlinks (from bit.ly maybe), the sharing buttons will use them
+* If you've installed another plugin to create custom shortlinks, the sharing buttons will use them
 
 Important: for this plugin to work, you must activate [Jetpack](http://wordpress.org/extend/plugins/jetpack/) first, and activate the Sharing module.
 
