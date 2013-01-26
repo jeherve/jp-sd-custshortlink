@@ -17,6 +17,8 @@ Use shortlinks instead of permalinks in Jetpack sharing buttons
 
 Important: for this plugin to work, you must activate [Jetpack](http://wordpress.org/extend/plugins/jetpack/) first, and activate the Sharing module.
 
+This plugin is a work in progress. You can report issues [here](http://wordpress.org/support/plugin/jetpack-shortlinks-for-sharing-buttons/), or submit a pull request [on GitHub](https://github.com/jeherve/jp-sd-custshortlink).
+
 == Installation ==
 
 1. Install the Jetpack plugin, connect the plugin to WordPress.com

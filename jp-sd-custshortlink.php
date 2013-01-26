@@ -1,8 +1,8 @@
 <?php
 /*
  * Plugin Name: Jetpack shortlinks for sharing buttons
- * Plugin URI: http://wordpress.org/extend/plugins/jetpack/
- * Description: Uses shortlinks instead of the permalink in sharing buttons
+ * Plugin URI: http://wordpress.org/extend/plugins/jetpack-shortlinks-for-sharing-buttons/
+ * Description: Use shortlinks instead of permalinks in Jetpack sharing buttons
  * Author: Jeremy Herve
  * Version: 1.0
  * Author URI: http://jeremyherve.com
